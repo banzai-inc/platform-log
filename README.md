@@ -10,7 +10,7 @@ Each function receives two things: an `id` of the resource used to reference the
 
 Example:
 
-```
+```clojure
 (info 123 "Hello, world")
 
 => INFO: [123] Hello, world
